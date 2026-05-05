@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Shaheen
 
-<!--
-**ShaheenGouda/ShaheenGouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at Nile University  
+🤖 Exploring Artificial Intelligence & Machine Learning  
+🌐 CCNA Certified | Networking & Systems Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- Artificial Intelligence & Machine Learning
+- Software Development
+- Cybersecurity Applications
+- System Design & Engineering
+
+---
+
+## 🔥 Featured Project
+
+### 🛡️ ScamShield AI  
+Hybrid Ensemble-Based URL Phishing Detection System  
+
+• 549k+ labeled URLs  
+• Stacking Ensemble (RF + GB + LR)  
+• Cross-Validated ROC-AUC ≈ 0.93  
+• F1-Optimized Threshold  
+• Hybrid ML + Reputation Filtering  
+• Streamlit Deployment  
+
+🔗 Repository:  
+https://github.com/ShaheenGouda/ScamShield-AI
+
+---
+
+## 🧠 Technical Interests
+
+- Machine Learning
+- Feature Engineering
+- Ensemble Methods
+- Algorithms & Data Structures
+- Computer Networks
+- Software Systems
+
+---
+
+## 📫 Let's Connect
+
+Always open to learning, collaboration, and new technical challenges.
