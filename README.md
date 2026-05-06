@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Shaheen
 
-Computer Engineering Student @ Nile University  
-CCNA Certified | AI & Systems Enthusiast  
-
-I build intelligent systems and scalable network infrastructures.
+🎓 Computer Engineering Student at Nile University
+🤖 Exploring Artificial Intelligence & Machine Learning
+🌐 CCNA Certified | Networking & Systems Enthusiast
 
 ---
 
