@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaheen
 
-🎓 Computer Engineering Student — Nile University  
+🎓 Computer Engineering Junior — Nile University  
 🤖 Focused on Artificial Intelligence & Machine Learning  
 🌐 CCNA Certified | Networking & Systems Enthusiast  
 
