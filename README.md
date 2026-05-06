@@ -1,66 +1,49 @@
 # 👋 Hi, I'm Shaheen
 
-🎓 Computer Engineering Student at Nile University  
-🤖 Exploring Artificial Intelligence & Machine Learning  
-🌐 CCNA Certified | Networking & Systems Enthusiast  
+Computer Engineering Student @ Nile University  
+CCNA Certified | AI & Systems Enthusiast  
+
+I build intelligent systems and scalable network infrastructures.
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Selected Projects
 
-- Artificial Intelligence & Machine Learning
-- Software Development
-- Cybersecurity Applications
-- System Design & Engineering
-
----
-
-## 🔥 Featured Project
-
-### 🛡️ ScamShield AI  
+### 🛡 ScamShield AI  
 Hybrid Ensemble-Based URL Phishing Detection System  
 
-• 549k+ labeled URLs  
-• Stacking Ensemble (RF + GB + LR)  
-• Cross-Validated ROC-AUC ≈ 0.93  
-• F1-Optimized Threshold  
-• Hybrid ML + Reputation Filtering  
-• Streamlit Deployment  
+- 549k+ labeled URLs  
+- Stacking Ensemble (RF + GB + LR)  
+- ROC-AUC ≈ 0.93 (Cross-Validated)  
+- F1-Optimized Decision Threshold  
+- Hybrid ML + Reputation Filtering  
+- Streamlit Deployment  
 
-🔗 Repository:  
-https://github.com/ShaheenGouda/ScamShield-AI
-
-
-## 🌐 Featured Networking Project  
-
-### 🏦 VaultLink – Enterprise Banking Network Design  
-Multi-Floor Enterprise Network Simulation (Cisco Packet Tracer)
-
-• 4-Floor Hierarchical Architecture (Core → Distribution → Access)  
-• OSPF Area 0 Backbone Routing  
-• Inter-VLAN Routing (SVI)  
-• Centralized DHCP + DHCP Relay  
-• 12 Departmental VLANs (/26 Subnetting)  
-• Secure Wireless Integration (WPA2-PSK)  
-• Port Security (Sticky MAC + Shutdown Mode)  
-• Structured WAN /30 Addressing  
-
-🔗 Repository:  
-https://github.com/ShaheenGouda/VaultLink-Enterprise-Network  
+🔗 https://github.com/ShaheenGouda/ScamShield-AI
 
 ---
 
-## 🧠 Technical Interests
+### 🏦 VaultLink  
+Enterprise Multi-Floor Banking Network (Cisco Packet Tracer)
 
-- Machine Learning
-- Feature Engineering
-- Ensemble Methods
-- Algorithms & Data Structures
-- Computer Networks
-- Software Systems
+- Hierarchical Design (Core → Distribution → Access)  
+- OSPF Area 0 Backbone  
+- Inter-VLAN Routing (SVI)  
+- Centralized DHCP + Relay  
+- 12 Departmental VLANs (/26 Subnetting)  
+- Secure Wireless (WPA2-PSK)  
+- Port Security (Sticky MAC)  
+
+🔗 https://github.com/ShaheenGouda/VaultLink-Enterprise-Network
 
 ---
 
-## 📫 Let's Connect
+## 🧠 Technical Areas
 
-Always open to learning, collaboration, and new technical challenges.
+Machine Learning • Software Systems • Software Systems • Algorithms & Data Structures • Cybersecurity Foundations
+
+---
+
+## 📫 Contact
+
+Open to collaboration, internships, and technical discussions.
